@@ -4,8 +4,8 @@ class script(object):
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @AJTGx"""
     HELP_TXT = """ʜᴇʏ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ʜᴇʟᴘ ɪs ʏᴏᴜ sᴇᴇᴍ ʟᴏsᴛ ᴏʀ ʜᴀᴠᴇ ᴀ ᴅᴏᴜʙᴛ ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ᴛᴏ ɴᴀᴠɪɢᴀᴛᴇ ᴛʜʀᴏᴜɢʜ ɪᴛ !"""
     ABOUT_TXT = """<b>➥  𝗠𝞓𝗦᳅𝜩𝗥 
-➥ ᴏᴡɴᴇʀ: ᴀᴊ ᴛɢ
-➥ ᴄʀᴇᴀᴛᴏʀ: ᴛᴇᴀᴍ ᴇᴠᴀ ᴍᴀʀɪᴀ
+➥ ᴏᴡɴᴇʀ: <a href=https://t.me/AJTGx>ᴀᴊ ᴛɢ</a>
+➥ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/TeamEvamaria>ᴛᴇᴀᴍ ᴇᴠᴀ ᴍᴀʀɪᴀ</a>
 ➥ ʟɪʙʀᴀʀʏ: ᴘʏʀᴏɢʀᴀᴍ
 ➥ ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ3
 ➥ ᴅᴀᴛᴀʙᴀsᴇ: ᴍᴏɴɢᴏ ᴅʙ
@@ -14,8 +14,8 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 <b>⚠️ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ɴᴏᴛ ᴀɴ  ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ
 ◆ ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
-◆ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ : <a href=https://t.me/moviehub_support>[𝐂𝐓™]𝐀𝐮𝐭𝐨𝐟𝐢𝐥𝐭𝐞𝐫𝐛𝐨𝐭V3</a>
-◆ ʟᴏᴠᴇ ꜰʀᴏᴍ :  <a href=https://t.me/CT_Arena>Cinemaathattakam™</a>
+◆ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ : <a href=https://t.me/moviesworld_malayalam>കിട്ടിയാൽ എനിക്കൂടെ താ 😹</a>
+◆ ʟᴏᴠᴇ ꜰʀᴏᴍ :  <a href=https://t.me/+kzIZY6esOHw5YmRl/>ᴍᴏᴠɪᴇꜱ ʜᴇʀᴇ™</a>
 ◆ Qᴜᴇʀɪᴇꜱ : <a href=https://t.me/Sathan_Of_Telegram>King</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
