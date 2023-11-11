@@ -24,7 +24,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/cinemathattakam_group')
+                InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/moviesworld_malayalam')
             ],
             [
                 InlineKeyboardButton('⚠️ ʜᴇʟᴩ', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -46,7 +46,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('ꜱᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/cinemathattakam_Group')
+            InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/moviesworld_malayalam')
             ],[      
             InlineKeyboardButton('⚠️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('⚙️ ᴀʙᴏᴜᴛ', callback_data='about')
@@ -69,7 +69,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('ꜱᴇᴀʀᴄʜ 🔎', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/cinemathattakam_group')
+            InlineKeyboardButton('📢 ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/moviesworld_malayalam')
             ],[
             InlineKeyboardButton('⚠️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('⚙️ ᴀʙᴏᴜᴛ', callback_data='about')
