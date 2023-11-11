@@ -8,4 +8,4 @@ requests
 bs4
 imdbpy==2021.4.18
 aiohttp
-python-3.10.8
+python-dotenv
